@@ -33,14 +33,15 @@ Note that the camera is intentionally zoomed out so that the workings of the gen
 *Demonstrating the buffer and the savanah biome
 ![](GIFs/buffer.gif)
 
-*Demonstrating rivers
-![](GIFs/river.gif)
-
 *Demonstrating towns
 ![](GIFs/town.gif)
 
 *Demonstrating snow biome
 ![](GIFs/snow.gif)
+
+*Demonstrating rivers
+![](GIFs/river.gif)
+
 
 ### 7. Requirements:
 * Unity version 2020.1.4 or greater 
