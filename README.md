@@ -34,13 +34,13 @@ Demonstrating the buffer and the savanah biome
 ![](GIFs/buffer.gif)
 
 Demonstrating the buffer and the savanah biome
-![](GIFs/buffer.gif)
+![](GIFs/river.gif)
 
 Demonstrating the buffer and the savanah biome
-![](GIFs/buffer.gif)
+![](GIFs/town.gif)
 
 Demonstrating the buffer and the savanah biome
-![](GIFs/buffer.gif)
+![](GIFs/snow.gif)
 
 ### 7. Requirements:
 * Unity version 2020.1.4 or greater 
