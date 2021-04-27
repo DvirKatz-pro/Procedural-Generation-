@@ -33,13 +33,13 @@ Note that the camera is intentionally zoomed out so that the workings of the gen
 Demonstrating the buffer and the savanah biome
 ![](GIFs/buffer.gif)
 
-Demonstrating the buffer and the savanah biome
+Demonstrating rivers
 ![](GIFs/river.gif)
 
-Demonstrating the buffer and the savanah biome
+Demonstrating towns
 ![](GIFs/town.gif)
 
-Demonstrating the buffer and the savanah biome
+Demonstrating snow biome
 ![](GIFs/snow.gif)
 
 ### 7. Requirements:
