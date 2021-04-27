@@ -30,18 +30,17 @@ An initial 3x3 tile set is generated with the player being in the middle, as the
 
 Note that the camera is intentionally zoomed out so that the workings of the generation can be seen. In actual gameplay the player will not be able to see the world edges 
 
-*Demonstrating the buffer and the savanah biome
+Demonstrating the buffer and the savanah biome
 ![](GIFs/buffer.gif)
 
-*Demonstrating towns
-![](GIFs/town.gif)
+Demonstrating the buffer and the savanah biome
+![](GIFs/buffer.gif)
 
-*Demonstrating snow biome
-![](GIFs/snow.gif)
+Demonstrating the buffer and the savanah biome
+![](GIFs/buffer.gif)
 
-*Demonstrating rivers
-![](GIFs/river.gif)
-
+Demonstrating the buffer and the savanah biome
+![](GIFs/buffer.gif)
 
 ### 7. Requirements:
 * Unity version 2020.1.4 or greater 
