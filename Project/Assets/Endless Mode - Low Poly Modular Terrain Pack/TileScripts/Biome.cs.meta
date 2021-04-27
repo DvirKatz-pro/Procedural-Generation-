@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dc1b087eb73cb0b46bfeb915271aaec1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - waterTile: {fileID: 107640, guid: cb4858094fb877b4aa25bbe252adee9d, type: 3}
+  - defaultMaterial: {fileID: 2100000, guid: 34ccd2d694bd8724d985a0f409ebea6c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

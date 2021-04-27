@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 62b3271a9c28f4243a510dabeeb2d6c6
+timeCreated: 1517390956
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Punisher
+    100004: Punisher_Weapon
+    100006: Rig
+    100008: RigEye
+    100010: RigEyeGizmo
+    100012: RigHead
+    100014: RigHeadGizmo
+    100016: RigHub
+    100018: RigHubGizmo
+    100020: RigLArm
+    100022: RigLArmGizmo
+    100024: RigLArmGun01
+    100026: RigLArmGun01Gizmo
+    100028: RigLArmGun02
+    100030: RigLArmGun02Gizmo
+    100032: RigRArm
+    100034: RigRArmGizmo
+    100036: RigRArmGun01
+    100038: RigRArmGun01Gizmo
+    100040: RigRArmGun02
+    100042: RigRArmGun02Gizmo
+    100044: RigSpine
+    400000: //RootNode
+    400002: Punisher
+    400004: Punisher_Weapon
+    400006: Rig
+    400008: RigEye
+    400010: RigEyeGizmo
+    400012: RigHead
+    400014: RigHeadGizmo
+    400016: RigHub
+    400018: RigHubGizmo
+    400020: RigLArm
+    400022: RigLArmGizmo
+    400024: RigLArmGun01
+    400026: RigLArmGun01Gizmo
+    400028: RigLArmGun02
+    400030: RigLArmGun02Gizmo
+    400032: RigRArm
+    400034: RigRArmGizmo
+    400036: RigRArmGun01
+    400038: RigRArmGun01Gizmo
+    400040: RigRArmGun02
+    400042: RigRArmGun02Gizmo
+    400044: RigSpine
+    2300000: Punisher
+    2300002: Punisher_Weapon
+    3300000: Punisher
+    3300002: Punisher_Weapon
+    4300000: Punisher
+    4300002: Punisher_Weapon
+    9500000: //RootNode
+    13700000: Punisher
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
