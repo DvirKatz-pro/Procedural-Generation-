@@ -31,7 +31,7 @@ An initial 3x3 tile set is generated with the player being in the middle, as the
 Note that the camera is intentionally zoomed out so that the workings of the generation can be seen. In actual gameplay the player will not be able to see the world edges 
 
 *Demonstrating the buffer and the savanah biome
-![](buffer.gif)
+![](GIFs/buffer.gif)
 
 *Demonstrating rivers
 ![](rivers.gif)
