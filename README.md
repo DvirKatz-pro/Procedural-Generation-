@@ -34,13 +34,13 @@ Note that the camera is intentionally zoomed out so that the workings of the gen
 ![](GIFs/buffer.gif)
 
 *Demonstrating rivers
-![](rivers.gif)
+![](GIFs/rivers.gif)
 
 *Demonstrating towns
-![](town.gif)
+![](GIFs/town.gif)
 
 *Demonstrating snow biome
-![](snow.gif)
+![](GIFs/snow.gif)
 
 ### 7. Requirements:
 * Unity version 2020.1.4 or greater 
