@@ -34,7 +34,7 @@ Note that the camera is intentionally zoomed out so that the workings of the gen
 ![](GIFs/buffer.gif)
 
 *Demonstrating rivers
-![](GIFs/rivers.gif)
+![](GIFs/river.gif)
 
 *Demonstrating towns
 ![](GIFs/town.gif)
